@@ -16,10 +16,12 @@ header{
 main{
     max-width: 800px;
     margin: 0 auto; 
-    text-align:center;
     padding: 2rem
-  
 }
+main.p{
+    text-align:center;
+}
+
 
 footer{
     background-color: #333;
